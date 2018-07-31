@@ -1,0 +1,21 @@
+#greeting = 'Hello'
+#name = input('Please enter your name ')
+#print(greeting + ' ' + name)
+
+#splitString = "this string has been\nsplit over\nseveral\nlines"
+#print(splitString)
+
+#tabbedString = "1\t2\t3\t4\t"
+#print(tabbedString)
+
+#print("the pet owner said 'No, no \'e\'s uh,.... he\'s resting'")
+
+#anotherSplitString = """This string has been
+#split over
+#several lines"""
+
+#print(anotherSplitString)
+
+tabbedString = """Number 1\t The Larch
+Number 2\t The Horse Chestnut"""
+print(tabbedString)
