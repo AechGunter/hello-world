@@ -1,0 +1,3 @@
+tabbedString = ("""Just\tfriends
+We need the space there for a reason""")
+print(tabbedString)
